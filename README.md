@@ -2,7 +2,7 @@
 Mission is to help OList structure its data department,
 to organise architecture, technologies and data processing.
 
-##Question 1.1
+## Question 1.1
 __Describe a basic data architecture which will allow you to gather data and
 create at least a data warehouse layer for analytics purposes.
 Identify the technologies you
@@ -17,6 +17,7 @@ We have 2 main sources of data:
  to make a visibility policy for different actors.
 
  A simple architecture to achieve this goal is follow:
+
  (Operational DB) -(ETL)-> (Staging DB) -(ETL)-> (Data Warehouse) -(ETL)->
  (Data Mart) -> Visualization Tool
 
