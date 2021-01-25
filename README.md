@@ -33,3 +33,9 @@ to answer marketing department questions.__
 
 Basic Star Schema of Data Warehouse
 ![DW_star](https://github.com/msryzhov/olist-data-management/blob/main/q_1_2.png)
+
+## Question 2.2
+__Imagine and create a segmentation based on the extracted data which will
+allow to group customers based on their purchase location.__
+
+You could find detail in ![Geo segmentation report](https://github.com/msryzhov/olist-data-management/blob/main/Geo_segmentation.pdf)
