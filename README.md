@@ -34,6 +34,14 @@ to answer marketing department questions.__
 Basic Star Schema of Data Warehouse
 ![DW_star](https://github.com/msryzhov/olist-data-management/blob/main/q_1_2.png)
 
+## Question 1.3
+__Describe how you could improve this basic data architecture to address
+potential future needs that you think could provide value to the organization.__
+
+First possible improvements is to go to Snowflake schema by breaking down
+dimensions tables to get possibilities study reports for example according
+product categories and etc.
+
 ## Question 2.2
 __Imagine and create a segmentation based on the extracted data which will
 allow to group customers based on their purchase location.__
