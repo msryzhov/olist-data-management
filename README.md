@@ -32,4 +32,4 @@ information as possible from the Kaggle’s extract you have, while providing yo
 to answer marketing department questions.__
 
 Basic Star Schema of Data Warehouse
-![DW_star](https://github.com/msryzhov/olist-data-management/q_1_2.png)
+![DW_star](https://github.com/msryzhov/olist-data-management/blob/main/q_1_2.png)
