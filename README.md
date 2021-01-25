@@ -25,3 +25,11 @@ We have 2 main sources of data:
  use this kind of data, but we need to store it for future needs.
  So, we can use Google Analytics API to retrieve data and store it to
  some NoSQL database.
+
+## Question 1.2
+__Describe a data warehouse schema which would allow you to use as much
+information as possible from the Kaggle’s extract you have, while providing you capabilities
+to answer marketing department questions.__
+
+Basic Star Schema of Data Warehouse
+![DW_star](https://github.com/msryzhov/olist-data-management/q_1_2.png)
